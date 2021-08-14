@@ -10,6 +10,7 @@ Pre-requisites installations:
 
 
 For more info on Named Entity Recognition:
+
 https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
 
 https://en.wikipedia.org/wiki/Named-entity_recognition
