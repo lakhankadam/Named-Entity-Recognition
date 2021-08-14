@@ -7,6 +7,9 @@ Pre-requisites installations:
 3. pip3 install keras
 4. pip3 install tensorflow
 5. pip3 install numpy
+6. pip3 install pydot
+7. pip3 install pydotplus
+8. Download graphviz as per OS https://graphviz.gitlab.io/download/
 
 
 For more info on Named Entity Recognition:
