@@ -1,5 +1,5 @@
 # Named-Entity-Recognition
-Named Entity Recognition using Nerual Networks
+Named Entity Recognition using Neural Networks
 
 Pre-requisites installations:
 1. pip3 install pandas
